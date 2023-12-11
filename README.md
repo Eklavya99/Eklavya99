@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eklavya99
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on projects on machine learning
+- 👀 I’m a backend developer
+- 🌱 I know how to develop servers using C#(dotnet framework) nd NodeJS
+- 💞️ I also enjoy learning how complex software are built especially AI models
 - 📫 How to reach me eklavya.shukla99@gmail.com
 
 <!---
